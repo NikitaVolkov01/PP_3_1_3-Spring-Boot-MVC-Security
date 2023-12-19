@@ -10,7 +10,7 @@
 После запуска приложения перейти по адресу http://localhost:8080/ 
 
 Пользователь с ролью 'user' - Username: user , Password: user.
-![image](https://github.com/NikitaVolkov01/PP_3_1_3-Spring-Boot-MVC-Security/assets/63566223/36e2bb9b-0461-4e05-ab88-602584509b7a)
+![image](https://github.com/NikitaVolkov01/PP_3_1_3-Spring-Boot-MVC-Security/assets/63566223/bc8d64ee-3eb1-4217-a514-e698437b91f4)
 
 Пользователь с ролью 'admin' - Username: admin , Password: admin.
 ![image](https://github.com/NikitaVolkov01/PP_3_1_3-Spring-Boot-MVC-Security/assets/63566223/86a3fb80-19ab-4331-a230-627f228387b3)
